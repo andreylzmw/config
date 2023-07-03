@@ -1,0 +1,11 @@
+{
+	"theme": "Default Dark.sublime-theme",
+	"color_scheme": "GitHub Dark.sublime-color-scheme",
+	"font_face": "SF Mono",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_size": 12,
+	"show_full_path": "true",
+}
